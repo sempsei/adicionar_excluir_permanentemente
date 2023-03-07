@@ -5,8 +5,3 @@ Adicione o Sdelete button para Windows. Com este button, você pode deletar qual
 Extraia e instale o pacote (colocar pacote na pasta: C:\Windows\System32 )
 
 Após colocar o pacote na pasta, clique no arquivo "adicionar_excluir_permanentemente" que confere com seu sistema. 
-
-## Autores
-
-- [@sempsei](https://www.github.com/sempsei)
-
